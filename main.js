@@ -133,6 +133,11 @@ const courses = [
         number: 27,
         title: "Number System 7",
         videoUrl: "https://us06web.zoom.us/rec/share/MLpyqtErrYVCdcdl1PTEXB8bImrxJXnUIkBSt4t108sRTHRd-E7WhVj1Z0Ogl69E.QaIDMC22V5WUrBYE"
+    },
+    {
+        number: 28,
+        title: "Number System 8",
+        videoUrl:"https://us06web.zoom.us/rec/share/BhDxgYlj35rqLkXHOn4Z0w7o9nziayP8rie2bcSbMtvtfJciNWWmtOzXxzsUqDVh.tDB_CMmu543tbxGD"
     }
     
 ];

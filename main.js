@@ -216,7 +216,17 @@ const courses = [
         title: "Equation Class 6",
         videoUrl: 'https://us06web.zoom.us/rec/share/qv1jQe9x-aQcda8pt2IMXs_efaUePjQZqYdoGtKOW2fBL7rwxqS6rsbCQ2nl1Icw.CBCiEsi4yDHoS1g9'
             
-    }
+    },
+    {
+        number: 42,
+        title: "Algebra Class 1",
+        videoUrl: "https://us06web.zoom.us/rec/share/rLebD5D-y8VqegqmzbupwD_Gq6NqBCKVZq8yO1SfHNZO_fKi-w1Gbgd-lfgnUgoL.CYS8WUT68-ks2nTg"
+    },
+    {
+        number: 43,
+        title: "Algebra Class 2",
+        videoUrl: "https://us06web.zoom.us/rec/share/N1iSpTAp0IFbeqZPGMzH9BGDdpj2ygPewspmv_Snrx-TUnQzd53GhMRAO6A111rn.0H4iDAoV2q39ieHz"
+    },
 ];
 
 function createCourseCard(course) {

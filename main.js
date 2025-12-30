@@ -237,6 +237,11 @@ const courses = [
         title: "Algebra Class 4",
         videoUrl: "https://us06web.zoom.us/rec/share/TYhhJcXIYXOqrZ3WHAZ6wXq_ZoXjmGYDRED6NdGzJLBOOiqQ9bBBN4iF7sXRZHA3.0lE1ZAOiugvAer_o"
     },
+    {
+        number: 46,
+        title: "Algebra Class 5",
+        videoUrl: 'https://us06web.zoom.us/rec/share/i7pIY_YwkwhQjtTiwg8q-q8_KpGiYFtQyummZ3zwn2GaXnUv_JxZ5xUHAfBAciU.QVdQGUwq2OzuEJxX'
+    },      
 ];
 
 function createCourseCard(course) {
